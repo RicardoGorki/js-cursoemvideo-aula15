@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(70, 100, 200);
+}
+
+header {
+  color:white;
+  text-align: center;
+}
+
+section {
+  background-color: white;
+  margin: auto;
+  font: normal 15pt Arial;
+  border-radius: 10px;
+  padding: 10px;
+  width: 500px;
+}
+
+select#lista {
+  width: 150px
+}
+
+footer {
+  color:white;
+  font-style:italic;
+  text-align: center;
+}
